@@ -3,7 +3,7 @@
   align-items: $type;
 }
 
-@mixin centeredBaselinedFLex($type, $main-axis) {
+@mixin centeredFlex($type, $main-axis) {
   display: $type;
   justify-content: $main-axis;
 }

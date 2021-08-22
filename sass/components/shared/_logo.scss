@@ -15,3 +15,13 @@
 .logo__text {
   color: $color-accent;
 }
+
+.footer__logo {
+  @extend .logo;
+
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+
+  color: $color-primary;
+}
