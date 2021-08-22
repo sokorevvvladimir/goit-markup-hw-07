@@ -170,20 +170,6 @@ textarea:focus {
   overflow: hidden;
 }
 
-// .modal-form__checkbox-input:checked + .modal-form__checkbox-icon {
-//   background-image: url(../images/checked.svg);
-//   background-size: contain;
-//   background-color: var(--accent-color);
-//   background-origin: border-box;
-//   background-repeat: no-repeat;
-//   background-position: center;
-//   border-color: transparent;
-// }
-
-// .modal-form__checkbox-input:focus + .modal-form__checkbox-icon {
-//   border-color: var(--accent-color);
-// }
-
 .modal-form__checkbox-link {
   color: $color-accent;
   margin-left: 5px;
