@@ -1,0 +1,4 @@
+@mixin headerAndFooterContainers($type) {
+  display: flex;
+  align-items: $type;
+}
